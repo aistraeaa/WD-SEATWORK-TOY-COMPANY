@@ -1,21 +1,79 @@
-#carouselExample {
-    max-width: 25%;
-    margin: 0 auto;
-    padding-top: 5rem;
-  }
-  
-  .carousel-inner img {
-    width: 100%;
-    height: auto; 
-  }
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  background-color: #fcfaf3;
+  margin: 0;
+  padding-top: 70px;
+}
 
-  .carousel-control-prev,
-  .carousel-control-next {
-    width: 5%; 
-  }
-  
-  .carousel-control-prev-icon,
-  .carousel-control-next-icon {
-    background-color: #000;
-  }
-  
+.carousel-section {
+  margin: 3rem auto;
+  max-width: 600px;
+}
+.carousel img {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.characters-section {
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+.characters-section header {
+  margin-bottom: 2rem;
+}
+.character-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.character-info h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.character-info h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #555;
+}
+.character-img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.character-img {
+  max-width: 450px; 
+  height: auto; 
+  margin: 0 auto; 
+  display: block;
+}
+
+.character-card {
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px; 
+  color: white; 
+}
+
+.character-card:nth-child(2) {
+  background-color: #6ed9c9; 
+}
+
+.character-card:nth-child(3) {
+  background-color: #fbe775; 
+}
+
+.character-card:nth-child(4) {
+  background-color: #ff8285;  
+}
+
+.character-card:nth-child(5) {
+  background-color: #b8b9bd;
+}
+
+.character-card:nth-child(6) {
+  background-color: #ababdf;
+}
+

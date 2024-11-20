@@ -1,0 +1,79 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding-top: 60px;
+    color: #6c757d;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #495057;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.nav-link.active {
+    font-weight: 600;
+    color: #212529;
+}
+
+.product-page {
+    padding: 60px 0;
+}
+
+.product-description {
+    text-align: left;
+    padding-left: 30px;
+}
+
+.product-title {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #212529;
+    margin-bottom: 10px;
+}
+
+.product-text {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 20px;
+}
+
+.add-to-cart {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 10px 20px;
+    background-color: #75d4ad;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-to-cart:hover {
+    background-color: #353534;
+}
+
+.carousel-inner img {
+    border-radius: 10px;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #75d4ad;
+}
