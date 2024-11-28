@@ -6,14 +6,13 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Ppulbatu Mock-up Store Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  a mock-up toy company store website using HTML, CSS, and Bootstrap elements
 </div>
 
 <br />
@@ -21,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/eb1b12bd-dcd5-4e27-886b-82e22fdee657/project/54c788bc-1d01-4c04-b930-f340567dc7c0.svg)](https://wakatime.com/badge/user/eb1b12bd-dcd5-4e27-886b-82e22fdee657/project/54c788bc-1d01-4c04-b930-f340567dc7c0)
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=aistraeaa/WD-SEATWORK-TOY-COMPANY)
 
 ---
 
@@ -58,20 +57,17 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+  The project is to utilize HTML, CSS, and Bootstrap library elements to create a functional 
+  website that will showcase a toy company store's official site. The website consists of 
+  multiple pages- including a landing page, about page, contact page, and individual product 
+  pages. Functional buttons and links directing to different parts of the site are also utilized.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Navigational Bar
+- Buttons
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,5 +113,6 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Proudct Photos | Photos to showcase the looks of the products. Taken from the Weverse Shop. | https://shop.weverse.io/en/shop/GL_USD/artists/3/sales/28045 |
+| Official Art ! Official logo and character photos for the about section. | https://www.instagram.com/ppulbatu/ |
+| Landing Page | Reference taken from Big Hit's official site to match layouts. | https://ibighit.com/txt/eng/ |
