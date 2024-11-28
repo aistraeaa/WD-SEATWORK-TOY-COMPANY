@@ -112,7 +112,7 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-| Proudct Photos | Photos to showcase the looks of the products. Taken from the Weverse Shop. | https://shop.weverse.io/en/shop/GL_USD/artists/3/sales/28045 |
-| Official Art ! Official logo and character photos for the about section. | https://www.instagram.com/ppulbatu/ |
-| Landing Page | Reference taken from Big Hit's official site to match layouts. | https://ibighit.com/txt/eng/ |
+| Title | Purpose | Link | <br>
+| Proudct Photos | Photos to showcase the looks of the products. Taken from the Weverse Shop. | https://shop.weverse.io/en/shop/GL_USD/artists/3/sales/28045 | <br>
+| Official Art ! Official logo and character photos for the about section. | https://www.instagram.com/ppulbatu/ | <br>
+| Landing Page | Reference taken from Big Hit's official site to match layouts. | https://ibighit.com/txt/eng/ | <br>
