@@ -1,14 +1,14 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #333;
-  background-color: #fcfaf3;
+  background-color: #cdf1e3;
   margin: 0;
   padding-top: 70px;
 }
 
 .carousel-section {
   margin: 3rem auto;
-  max-width: 600px;
+  max-width: 750px;
 }
 .carousel img {
   border-radius: 10px;
@@ -58,22 +58,22 @@ body {
 }
 
 .character-card:nth-child(2) {
-  background-color: #6ed9c9; 
+  background-color: #56cfbd; 
 }
 
 .character-card:nth-child(3) {
-  background-color: #fbe775; 
+  background-color: #f3dc5d; 
 }
 
 .character-card:nth-child(4) {
-  background-color: #ff8285;  
+  background-color: #e76a6c;  
 }
 
 .character-card:nth-child(5) {
-  background-color: #b8b9bd;
+  background-color: #909298;
 }
 
 .character-card:nth-child(6) {
-  background-color: #ababdf;
+  background-color: #9292c3;
 }
 
